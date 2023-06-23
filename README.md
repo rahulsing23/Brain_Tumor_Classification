@@ -13,4 +13,4 @@ Brain tumor treatment options depend on the type of brain tumor you have, as wel
 Brain Tumors are complex. There are a lot of abnormalities in the sizes and location of the brain tumor(s). This makes it really difficult for complete understanding of the nature of the tumor. Also, a professional Neurosurgeon is required for MRI analysis. Often times in developing countries the lack of skillful doctors and lack of knowledge about tumors makes it really challenging and time-consuming to generate reports from MRI’. So an automated system on Cloud can solve this problem.
 
 Task
-Detect and Classify Brain Tumor using CNN .
+Detect and Classify Brain Tumor using CNN and Random Forest.
